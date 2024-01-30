@@ -8,5 +8,6 @@ languages = [
     "German",
     "Italian",
     "Japanese",
-    "Kazakh"
+    "Kazakh",
+    "ru"
 ]

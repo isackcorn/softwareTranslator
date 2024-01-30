@@ -3,7 +3,7 @@ from deep_translator import GoogleTranslator
 from langs import languages
 
 st.title("Переводчик")
-lang = st.selectbox("Язык, на который необходимо перевести текст:", languages)
+lang = st.selectbox("Код языка, на который необходимо перевести текст:", languages)
 source_text = st.text_area("Введите Ваш текст:")
 translate = st.button("Перевести")
 if translate:

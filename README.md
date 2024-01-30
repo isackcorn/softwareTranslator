@@ -12,3 +12,6 @@
 Приложение также развернуто на Streamlit, ознакомиться можно по [ссылке](https://isackcorn-translator.streamlit.app/)
 
 Если у Вас не работает переход по гиперссылкам: https://isackcorn-translator.streamlit.app/
+
+### Автор
+Лобачев В.И., РИМ-130962
